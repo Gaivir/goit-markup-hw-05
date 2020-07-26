@@ -505,7 +505,7 @@ body {
 }
 
 .page-img {
-  width: 370px;
+  width: 100%;
 }
 
 .page:hover .portfolio-text {
